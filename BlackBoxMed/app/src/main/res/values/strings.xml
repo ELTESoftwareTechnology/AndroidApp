@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">BlackBoxMed</string>
+    <string name="title_share">Share with my doctor</string>
+    <string name="doc_card_title">General</string>
+    <string name="type_card_title">Data types</string>
+    <string name="devices_card_title">Connected services</string>
+    <string name="frequency_card_title">Sharing range</string>
+    <array name="entries">Steps, Pulse, SO2</array>
+
+    <string-array name="start_array">
+        <item>1 week ago</item>
+        <item>2 weeks ago</item>
+        <item>1 month ago</item>
+        <item>2 months ago</item>
+        <item>from the start</item>
+    </string-array>
+
+    <string-array name="end_array">
+        <item>Now</item>
+        <item>Yesterday</item>
+        <item>1 week ago</item>
+        <item>2 weeks ago</item>
+        <item>1 month ago</item>
+    </string-array>
+
+    <string-array name="upload_array">
+        <item>Hourly</item>
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+    </string-array>
+</resources>
